@@ -1,0 +1,57 @@
+body{
+    background-color: hsl(47, 88%, 63%);
+}
+.container{
+    background-color: hsl(0, 0%, 100%);
+    width: 250px;
+    height: 350px;
+    border-radius: 16px;
+    border: 1px solid hsl(0, 0%, 42%);
+    padding: 15px;
+    margin: auto;
+    box-shadow: 5px 5px 1px black;
+}
+img{
+    width: 100%;
+}
+p{
+    font-size: 16px;
+    font-family: Figtree;
+    font-weight: 500;
+    font-size: 12px;
+    color: hsl(0, 0%, 42%);
+}
+h1{
+    font-family: Figtree;
+    font-weight: 800;
+    font-size: 18px;
+}
+h2{
+    font-family: Figtree;
+    font-weight: 500;
+    font-size: 12px;
+    font-weight: bold;
+}
+.text1{
+    background-color: hsl(47, 88%, 63%);
+    width: 70px;
+    height: 20px;
+    align-content: center;
+    border-radius: 6%;
+    text-align: center;
+}
+.user{
+    display: flex;
+    align-items: center;
+    align-content: space-between;
+}
+.user img{
+    width: 25px;
+    height: 25px;
+}
+.user h3{
+    font-family: Figtree;
+    font-weight: 500;
+    font-size: 12px;
+    margin-left: 8px;
+}
